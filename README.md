@@ -39,7 +39,7 @@
     <course>Flutter</course>
     <course>Vue</course>
     <course>ReactJS</course>
-    <course>AlpinJS</course>
+    <course>AlpineJS</course>
     <course>C# Unity</course>
     <course>Android Studio with C# and Kotlin</course>
     <course>ASP.Net</course>

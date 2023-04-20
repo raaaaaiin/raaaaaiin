@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **marcraineer0089@gmail.com**
 
-<?xml version="1.0" encoding="UTF-8"?>
+- <?xml version="1.0" encoding="UTF-8"?>
 <personalInfo>
   <summary>I am a highly skilled and knowledgeable computer technician, video editor, and full-stack developer.</summary>
   <education>Bachelor's Degree in Computer Science</education>

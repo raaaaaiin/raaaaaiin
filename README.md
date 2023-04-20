@@ -8,7 +8,7 @@
 - 📫 How to reach me **marcraineer0089@gmail.com**
 
 - I am a highly skilled and knowledgeable computer technician, video editor, and full-stack developer.
-Bachelor's Degree in Computer Science C C++ C# vb.net Java Python HTML CSS JavaScript Java (Spring) PHP Software Development Web Development Motion Graphics and Video Editing 2D/3D Graphics Design Logo Editing T-shirt Designing Architectural Design Computer Repair Laptop Repair Mobile Repair Electronics Repair Computer Network Setup Computer Server Maintenance
+Bachelor's Degree in Computer Science C C++ C# vb.net Java Python HTML CSS JavaScript Java (Spring) PHP Software Development Web Development Motion Graphics and Video Editing 2D/3D Graphics Design Logo Editing T-shirt Designing Architectural Design Computer Repair Laptop Repair Mobile Repair Electronics Repair Computer Network Setup Computer Server Maintenance Back-end Development Python Programming Spring Framework Angular Framework Flask Flutter Vue ReactJS AlpineJS C# Unity Android Studio with C# and Kotlin ASP.Net Strong Educational Background Extensive Experience Wide Range of Skills Ability to Deliver Exceptional Results
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaaaaiin&label=Profile%20views&color=0e75b6&style=flat" alt="raaaaaiin" /> </p>
 
@@ -24,30 +24,9 @@ Bachelor's Degree in Computer Science C C++ C# vb.net Java Python HTML CSS JavaS
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raaaaaiin&" alt="raaaaaiin" /></p>
+<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raaaaaiin&" alt="raaaaaiin" /></p></center>
 
 ![](https://komarev.com/ghpvc/?username=raaaaaiin)
 
 
 
-  <training>
-    <course>Back-end Development</course>
-    <course>Python Programming</course>
-    <course>Spring Framework</course>
-    <course>Angular Framework</course>
-    <course>Flask</course>
-    <course>Flutter</course>
-    <course>Vue</course>
-    <course>ReactJS</course>
-    <course>AlpineJS</course>
-    <course>C# Unity</course>
-    <course>Android Studio with C# and Kotlin</course>
-    <course>ASP.Net</course>
-  </training>
-  <skills>
-    <skill>Strong Educational Background</skill>
-    <skill>Extensive Experience</skill>
-    <skill>Wide Range of Skills</skill>
-    <skill>Ability to Deliver Exceptional Results</skill>
-  </skills>
-</personalInfo>

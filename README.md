@@ -1,46 +1,17 @@
 <h1 align="center">Hey there! I'm Raineer Filosopo</h1>
 <h3 align="center">A highly skilled and knowledgeable Computer Science graduate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raaaaaiin&label=Profile%20views&color=0e75b6&style=flat" alt="raaaaaiin" /> </p>
-
 - 🔭 I’m currently working on **NoLibX**
 
 - 🤝 I’m looking for help with [NoLibX](https://github.com/raaaaaiin/NoLibX)
 
 - 📫 How to reach me **marcraineer0089@gmail.com**
 
-- <?xml version="1.0" encoding="UTF-8"?>
-<personalInfo>
-  <summary>I am a highly skilled and knowledgeable computer technician, video editor, and full-stack developer.</summary>
-  <education>Bachelor's Degree in Computer Science</education>
-  <programmingLanguages>
-    <language>C</language>
-    <language>C++</language>
-    <language>C#</language>
-    <language>vb.net</language>
-    <language>Java</language>
-    <language>Python</language>
-    <language>HTML</language>
-    <language>CSS</language>
-    <language>JavaScript</language>
-    <language>Java (Spring)</language>
-    <language>PHP</language>
-  </programmingLanguages>
-  <services>
-    <service>Software Development</service>
-    <service>Web Development</service>
-    <service>Motion Graphics and Video Editing</service>
-    <service>2D/3D Graphics Design</service>
-    <service>Logo Editing</service>
-    <service>T-shirt Designing</service>
-    <service>Architectural Design</service>
-    <service>Computer Repair</service>
-    <service>Laptop Repair</service>
-    <service>Mobile Repair</service>
-    <service>Electronics Repair</service>
-    <service>Computer Network Setup</service>
-    <service>Computer Server Maintenance</service>
-  </services>
+- I am a highly skilled and knowledgeable computer technician, video editor, and full-stack developer.
+Bachelor's Degree in Computer Science C C++ C# vb.net Java Python HTML CSS JavaScript Java (Spring) PHP Software Development Web Development Motion Graphics and Video Editing 2D/3D Graphics Design Logo Editing T-shirt Designing Architectural Design Computer Repair Laptop Repair Mobile Repair Electronics Repair Computer Network Setup Computer Server Maintenance
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raaaaaiin&label=Profile%20views&color=0e75b6&style=flat" alt="raaaaaiin" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naerlex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naerlex" height="30" width="40" /></a>

@@ -26,7 +26,6 @@ Bachelor's Degree in Computer Science C C++ C# vb.net Java Python HTML CSS JavaS
 
 <center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raaaaaiin&" alt="raaaaaiin" /></p></center>
 
-![](https://komarev.com/ghpvc/?username=raaaaaiin)
 
 
 
